@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuPaTeT
+- 👋 Hi, I’m @SuPa
 - 👀 I’m interested in Data Analysis, Machine Learning, Deep Learning, AI, Data Engineering....
 - 🌱 I’m currently learning EVERYTHING!!!
 - 💞️ I’m looking to collaborate on data science/engineering projects 
